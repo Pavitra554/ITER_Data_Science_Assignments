@@ -1,3 +1,17 @@
+# Pavitra Behara
+# 2041002041
+
+# ___________________________________________________________________________________
+
+# Question 4
+# Write a Python Script to generate random passwords (alphanumeric). Ask users to enter the length of
+# password and number of passwords they want to generate and then print all the generated passwords.
+
+# ____________________________________________________________________________________
+
+
+# Code _______________________________________________________________________________
+
 import random
 import string
 
